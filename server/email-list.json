@@ -1,0 +1,37 @@
+{
+	"inbox_list": [
+		{
+			"id": 1,
+			"avatar_url": "https://s-media-cache-ak0.pinimg.com/736x/2b/98/49/2b9849f495d78e7e77e3671bd6fd7be8.jpg",
+			"subject": "[Chanintr Craft] Message from customers",
+			"from_name": "Prapunsak Kanasawat",
+			"from_email": "prapunsak@maqe.com",
+			"to_name": "Customer service",
+			"to_email": "team-craftx+customer_service@maqe.com",
+			"message": "NEW MESSAGE FROM CUSTOMER",
+			"date": "Fri, 24 Mar 2017 09:44:13 GMT"
+		},
+		{
+			"id": 2,
+			"avatar_url": "https://www.officevibe.com/wp-content/uploads/2013/08/officevibe-facebook.jpg",
+			"subject": "MAQE Question of the Week",
+			"from_name": "Officevibe",
+			"from_email": "question@officevibe.com",
+			"to_name": "Prapunsak Kanasawat",
+			"to_email": "prapunsak@maqe.com",
+			"message": "How do you feel about the contribution of your colleagues?",
+			"date": "Thu, 23 Mar 2017 11:19:44 GMT"
+		},
+		{
+			"id": 3,
+			"avatar_url": "https://avatars3.githubusercontent.com/u/1303435?v=3&s=280",
+			"subject": "Late arrival",
+			"from_name": "Setthathorn Pitaksomboon",
+			"from_email": "setthathorn@maqe.com",
+			"to_name": "Bangkok Staff",
+			"to_email": "Bangkok_staff@maqe.com",
+			"message": "I have a bit problem with my vehicle today. I will be at the office before noon.",
+			"date": "Wed, 22 Mar 2017 07:37:42 GMT"
+		}
+	]
+}
